@@ -8,7 +8,8 @@ let originalLines = [
   "as the last of my spirit fades to embers. I keep waiting for a sudden change to surge within me,",
   "for a vision of an open grassland to appear in my mind—a promise that my soul could still take flight",
   "and escape this cage of responsibilities. But the alarm clock rings, the to-do list waits,",
-  "and the dream dissolves. The weight of a thousand mundane expectations is a heavy cloak I can't take off.                                                               I'm just so tired of pretending to be okay."
+  "and the dream dissolves. The weight of a thousand mundane expectations is a heavy cloak I can't take off.",
+  "I'm just so tired of pretending to be okay."
 ];
 
 // ======================== 保留词 ========================
